@@ -1,0 +1,1 @@
+DROP TABLE data_science_jobs;
