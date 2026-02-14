@@ -19,6 +19,26 @@
             "name": "sql_course",
             "database": "sql_course",
             "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "database": "sql_course",
+            "username": "samlathrop",
+            "name": "luke_course_local"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "luke_course_local",
+            "database": "postgres",
+            "username": "samlathrop"
         }
     ]
 }
