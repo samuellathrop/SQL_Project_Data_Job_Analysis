@@ -1,0 +1,723 @@
+[
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "sql"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "python"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "r"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "sas"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "matlab"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "spark"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "excel"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 229253,
+    "job_title": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "company_name": "Torc Robotics",
+    "skills": "sas"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "sql"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "python"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "r"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "bigquery"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 101757,
+    "job_title": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "company_name": "Care.com",
+    "skills": "looker"
+  },
+  {
+    "job_id": 285766,
+    "job_title": "Partner Technology Manager, Data Analytics and AI",
+    "salary_year_avg": "254000.0",
+    "company_name": "Google",
+    "skills": "gcp"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "python"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "r"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "sas"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "vba"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "databricks"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "redshift"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "excel"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "looker"
+  },
+  {
+    "job_id": 1281297,
+    "job_title": "Staff Data Analyst, Credit Analytics",
+    "salary_year_avg": "200000.0",
+    "company_name": "Upstart",
+    "skills": "sas"
+  },
+  {
+    "job_id": 985088,
+    "job_title": "Privacy Data Analyst",
+    "salary_year_avg": "157500.0",
+    "company_name": "Meta",
+    "skills": "sql"
+  },
+  {
+    "job_id": 985088,
+    "job_title": "Privacy Data Analyst",
+    "salary_year_avg": "157500.0",
+    "company_name": "Meta",
+    "skills": "python"
+  },
+  {
+    "job_id": 985088,
+    "job_title": "Privacy Data Analyst",
+    "salary_year_avg": "157500.0",
+    "company_name": "Meta",
+    "skills": "r"
+  },
+  {
+    "job_id": 985088,
+    "job_title": "Privacy Data Analyst",
+    "salary_year_avg": "157500.0",
+    "company_name": "Meta",
+    "skills": "php"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "aws"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "airflow"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "gdpr"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "looker"
+  },
+  {
+    "job_id": 1432159,
+    "job_title": "Data Governance Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "Electronic Arts Inc",
+    "skills": "flow"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "sql"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "python"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "nosql"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "r"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "sas"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "visual basic"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "oracle"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "excel"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "sas"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "word"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "sap"
+  },
+  {
+    "job_id": 873376,
+    "job_title": "Sr. Clinical Data Analyst",
+    "salary_year_avg": "150000.0",
+    "company_name": "McKesson",
+    "skills": "powerpoint"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "python"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "r"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "hadoop"
+  },
+  {
+    "job_id": 1647979,
+    "job_title": "Data Insights Analyst III (Hybrid- Austin, TX)",
+    "salary_year_avg": "125000.0",
+    "company_name": "Child Care Provider",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1423105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1423105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO",
+    "skills": "python"
+  },
+  {
+    "job_id": 1423105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO",
+    "skills": "r"
+  },
+  {
+    "job_id": 1423105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 54105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "Meta",
+    "skills": "sql"
+  },
+  {
+    "job_id": 54105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "Meta",
+    "skills": "python"
+  },
+  {
+    "job_id": 54105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "Meta",
+    "skills": "r"
+  },
+  {
+    "job_id": 54105,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "Meta",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1798208,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO Limited",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1798208,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO Limited",
+    "skills": "python"
+  },
+  {
+    "job_id": 1798208,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO Limited",
+    "skills": "r"
+  },
+  {
+    "job_id": 1798208,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "ITECCO Limited",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1020577,
+    "job_title": "Data Analyst",
+    "salary_year_avg": "125000.0",
+    "company_name": "Insight Global",
+    "skills": "excel"
+  },
+  {
+    "job_id": 775776,
+    "job_title": "Data Analyst III (Healthcare Analytics)",
+    "salary_year_avg": "115800.0",
+    "company_name": "Centene Corporation",
+    "skills": "sql"
+  },
+  {
+    "job_id": 775776,
+    "job_title": "Data Analyst III (Healthcare Analytics)",
+    "salary_year_avg": "115800.0",
+    "company_name": "Centene Corporation",
+    "skills": "python"
+  },
+  {
+    "job_id": 775776,
+    "job_title": "Data Analyst III (Healthcare Analytics)",
+    "salary_year_avg": "115800.0",
+    "company_name": "Centene Corporation",
+    "skills": "r"
+  },
+  {
+    "job_id": 775776,
+    "job_title": "Data Analyst III (Healthcare Analytics)",
+    "salary_year_avg": "115800.0",
+    "company_name": "Centene Corporation",
+    "skills": "sas"
+  },
+  {
+    "job_id": 775776,
+    "job_title": "Data Analyst III (Healthcare Analytics)",
+    "salary_year_avg": "115800.0",
+    "company_name": "Centene Corporation",
+    "skills": "sas"
+  },
+  {
+    "job_id": 1521341,
+    "job_title": "On-Chain Data Analyst (Blockchain)",
+    "salary_year_avg": "115000.0",
+    "company_name": "Triplebyte",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1521341,
+    "job_title": "On-Chain Data Analyst (Blockchain)",
+    "salary_year_avg": "115000.0",
+    "company_name": "Triplebyte",
+    "skills": "python"
+  },
+  {
+    "job_id": 1521341,
+    "job_title": "On-Chain Data Analyst (Blockchain)",
+    "salary_year_avg": "115000.0",
+    "company_name": "Triplebyte",
+    "skills": "r"
+  },
+  {
+    "job_id": 1521341,
+    "job_title": "On-Chain Data Analyst (Blockchain)",
+    "salary_year_avg": "115000.0",
+    "company_name": "Triplebyte",
+    "skills": "excel"
+  },
+  {
+    "job_id": 1283786,
+    "job_title": "People Analytics, Data Visualization Analyst",
+    "salary_year_avg": "115000.0",
+    "company_name": "Visa Inc",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1283786,
+    "job_title": "People Analytics, Data Visualization Analyst",
+    "salary_year_avg": "115000.0",
+    "company_name": "Visa Inc",
+    "skills": "excel"
+  },
+  {
+    "job_id": 1283786,
+    "job_title": "People Analytics, Data Visualization Analyst",
+    "salary_year_avg": "115000.0",
+    "company_name": "Visa Inc",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 1283786,
+    "job_title": "People Analytics, Data Visualization Analyst",
+    "salary_year_avg": "115000.0",
+    "company_name": "Visa Inc",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 1283786,
+    "job_title": "People Analytics, Data Visualization Analyst",
+    "salary_year_avg": "115000.0",
+    "company_name": "Visa Inc",
+    "skills": "powerpoint"
+  },
+  {
+    "job_id": 947506,
+    "job_title": "IT Business Systems Data Analyst",
+    "salary_year_avg": "113800.0",
+    "company_name": "Elevance Health",
+    "skills": "sql"
+  },
+  {
+    "job_id": 947506,
+    "job_title": "IT Business Systems Data Analyst",
+    "salary_year_avg": "113800.0",
+    "company_name": "Elevance Health",
+    "skills": "jira"
+  },
+  {
+    "job_id": 947506,
+    "job_title": "IT Business Systems Data Analyst",
+    "salary_year_avg": "113800.0",
+    "company_name": "Elevance Health",
+    "skills": "confluence"
+  },
+  {
+    "job_id": 571917,
+    "job_title": "Jr. Data Analyst",
+    "salary_year_avg": "112500.0",
+    "company_name": "Daman",
+    "skills": "python"
+  },
+  {
+    "job_id": 571917,
+    "job_title": "Jr. Data Analyst",
+    "salary_year_avg": "112500.0",
+    "company_name": "Daman",
+    "skills": "aws"
+  },
+  {
+    "job_id": 571917,
+    "job_title": "Jr. Data Analyst",
+    "salary_year_avg": "112500.0",
+    "company_name": "Daman",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "sql"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "python"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "r"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "sas"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "sas"
+  },
+  {
+    "job_id": 958558,
+    "job_title": "Customer Experience Data Analyst",
+    "salary_year_avg": "111175.0",
+    "company_name": "ServiceNow",
+    "skills": "spss"
+  }
+]
